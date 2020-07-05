@@ -8,7 +8,7 @@
 
 Foram ministrados doze aulas abordando temas fundamentais da linguagem Python.   
 Todo o conteúdo prático se encontra nos módulos Python deste projeto.  
-No diretório slides está todo conteúdo teórico das aulas.  
+No diretório slides contém todo conteúdo teórico das aulas.  
 
 As aulas são gratuítas e podem ser acessadas diretamente na plataforma da [Digital Innovation One (DIO)](https://digitalinnovation.one/).
 
